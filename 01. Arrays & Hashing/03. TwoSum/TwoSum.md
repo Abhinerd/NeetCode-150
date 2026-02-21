@@ -12,6 +12,7 @@ Before adding, check if value-target exists, if it does, return the compliment's
 ### Complexity
 **Time Complexity = O(n)**
   Because all the elements of the array are iterated thru
+  
 **Space Complexity = O(n)**
   Because all the elements are being stored in a hashmap whose size can be the same as that of the input array
 

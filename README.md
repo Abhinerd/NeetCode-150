@@ -2,7 +2,6 @@
 
 This repository contains my solutions and corresponding small notes for the NeetCode 150 problems list.
 
----
 
 ## Progress Tracker
 
@@ -11,5 +10,3 @@ This repository contains my solutions and corresponding small notes for the Neet
 - [x] Valid Anagram
 - [x] Two Sum
 - [x] Group Anagrams
-
----
